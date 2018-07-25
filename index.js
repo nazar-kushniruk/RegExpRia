@@ -1,4 +1,4 @@
-const test = require("./region.js"),
+const test = require("./test_url.js"),
       exceptions = require("./exceptions"),
       joinedExceptions =  exceptions.join('|'),
 
@@ -18,9 +18,9 @@ let string = lang + obl + city + locality + params + objectType + objectClass + 
 
 
 let reg  = new RegExp(string);
-console.log(reg);
-//for (let item in test) {
-  //  console.log(reg.exec(test[item]));
-//}
+
+for (let item in test) {
+    console.log(reg.exec(test[item]));
+}
 
 
