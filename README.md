@@ -355,4 +355,4 @@ new RegExp(/* Ваша регулярка*/)
   
   ## /
   /^\/(ru|uk)\/novostroyki(?:-(vinnitskaya|zhitomirskaya|ternopolskaya|khmelnitskaya|lvovskaya|chernigovskaya|kharkovskaya|sumskaya|rovenskaya|kiyevskaya|dnepropetrovskaya|odesskaya|zaporozhskaya|ivano-frankovskaya|kirovogradskaya|volynskaya|nikolayevskaya|poltavskaya|zakarpatskaya|khersonskaya|cherkasskaya|chernovitskaya|donetskaya|luganskaya)-oblast)?(?:-(?!kvartiry|kottedzhi|taunkhausy|pomeshcheniya|ekonom-klassa|standart|biznes-klassa|elit-klassa|dachnyy|komfort-klassa|premium|odnokomnatnyye|dvukhkomnatnyye|trekhkomnatnyye|chetyrekhkomnatnyye|rassrochka|s-remontom|sdannyye|stroyashchiyesya|rayon|metro|levyy-bereg|pravyy-bereg|vozle-metro|ulitsa)([A-Za-z]*))?(?:(?:-rayon(?:-([A-Za-z]*)))|(?:-metro(?:-([A-Za-z]*)))|(?:-(levyy-bereg|pravyy-bereg))|(?:-(vozle-metro))|(?:-ulitsa-([A-Za-z]*)))?(?:-(sdannyye))?(?:-(stroyashchiyesya))?(?:-(kvartiry|kottedzhi|taunkhausy|pomeshcheniya))?(?:-(ekonom-klassa|standart|biznes-klassa|elit-klassa|dachnyy|komfort-klassa|premium))?(?:-(odnokomnatnyye|dvukhkomnatnyye|trekhkomnatnyye|chetyrekhkomnatnyye))?(?:-(rassrochka))?(?:-(s-remontom))?/
-  ##/
+  ## /
